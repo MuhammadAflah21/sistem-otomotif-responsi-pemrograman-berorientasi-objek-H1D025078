@@ -1,6 +1,6 @@
 # Responsi Akhir Praktikum Pemrograman Berorientasi Objek (PBO)
 
-Sistem Manajemen Armada Otomotif Terpadu berbasis bahasa pemrograman **Java** yang dirancang untuk memenuhi seluruh 10 persyaratan teknis Responsi Akhir Praktikum PBO Jurusan Informatika, Fakultas Teknik, Universitas Jenderal Soedirman.
+Sistem Manajemen Armada Otomotif Terpadu berbasis bahasa pemrograman **Java**.
 
 ## 1. Identitas Mahasiswa dan Tema NIM
 
@@ -51,3 +51,19 @@ javac navigasiCerdas.java pengisianDayaCepat.java kendaraanOtomotif.java mobilLi
 java Main
 ```
 
+## 4. Screenshot Output Program
+
+### Screenshot Uji 1
+[screenshotUji1.png]
+
+### Screenshot Uji 2
+[screenshotUji2.png]
+
+### Screenshot Uji 3
+[screenshotUji3.png]
+
+### Screenshot Uji 4
+[screenshotUji4.png]
+
+### Screenshot Uji Multiple Interface
+[ScreenshotUjiMultipleInterface.png]
