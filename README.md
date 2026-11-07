@@ -54,16 +54,20 @@ java Main
 ## 4. Screenshot Output Program
 
 ### Screenshot Uji 1
-[screenshotUji1.png]
+<img width="1002" height="244" alt="Screenshot 2026-11-07 155522" src="https://github.com/user-attachments/assets/67d2cf35-df33-4185-9fab-78363b2c40f1" />
+
 
 ### Screenshot Uji 2
-[screenshotUji2.png]
+<img width="1064" height="1196" alt="Screenshot 2026-11-07 155407" src="https://github.com/user-attachments/assets/f8e28e37-932a-4690-9048-70c733e9b065" />
+
 
 ### Screenshot Uji 3
-[screenshotUji3.png]
+<img width="1444" height="330" alt="Screenshot 2026-11-07 155425" src="https://github.com/user-attachments/assets/ec260f89-4c3a-4a8e-939c-17f1ca9e64cc" />
+
 
 ### Screenshot Uji 4
-[screenshotUji4.png]
+<img width="1350" height="226" alt="Screenshot 2026-11-07 155449" src="https://github.com/user-attachments/assets/4f667be4-682e-4644-881b-2f3e4e5b486f" />
+
 
 ### Screenshot Uji Multiple Interface
-[ScreenshotUjiMultipleInterface.png]
+<img width="1426" height="428" alt="Screenshot 2026-11-07 155503" src="https://github.com/user-attachments/assets/17a287c7-7bfd-4510-9ee6-30d1b2d20d82" />
