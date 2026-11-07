@@ -1,5 +1,3 @@
-package responsi;
-
 public class mobilListrikPintar extends kendaraanOtomotif implements pengisianDayaCepat, navigasiCerdas{
     public static final double KECEPATAN_MAKSIMUM_EV = 220.0;
     private final double kapasitasBateraiKWh;

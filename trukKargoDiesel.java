@@ -1,5 +1,3 @@
-package responsi;
-
 public class trukKargoDiesel extends kendaraanOtomotif implements navigasiCerdas{
     public static final double BATAS_KECEPATAN_TRUK = 90.0;
     private final double kapasitasMuatanMaksTon;

@@ -1,5 +1,3 @@
-package responsi;
-
 public abstract class kendaraanOtomotif {
     public static final String STANDAR_REGULASI_OTOMOTIF = "SNI_EURO4_INDONESIA";
     private final String nomorRangkaVIN;

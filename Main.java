@@ -1,5 +1,3 @@
-package responsi;
-
 public class Main {
     public static void main(String[] args) {
         System.out.println(">>> [UJI 1] INSTANSIASI OBJEK, OVERLOADING KONSTRUKTOR, & IMMUTABILITY <<<");
